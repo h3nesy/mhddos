@@ -5,12 +5,14 @@
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
 
-<p align="center">Please Don't Hit '.gov'  and '.ir' Websites :)</p>
+<p align="center">Đây là bộ code cũ của MHDDoS :)</p>
+<p align="center">Here is the old source of MHDDoS</p>
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://i.imgur.com/ueDhdte.png" width="1078" height="296" alt="SCRIPT"></p>
 
-## Features And Method
+## Phương Thức Tấn Công
+## Methods Attack
 
  * 💣 Layer7
    * <img src="https://image.flaticon.com/icons/png/128/2431/2431664.png" width="16" height="16" alt="get"> GET | GET Flood
@@ -58,20 +60,14 @@
   * 🌠 TOOLS | Tools Console
   * 👑 HELP | Show Usge Script
 
-* Layer4 DDoS Script
-#### Issues ? 
- * Telegram : @MH_ProDev_IR
- * Discord : MH_ProDev#5642
- * [GitHub][github]
-#### Like the project? Leave a ⭐ star on the repository!
-
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
+You can download from [GitHub](https://github.com/h3nesy/mhddos/)
 
 ### Getting Started
 
 **Requirements**
+**Thư Viện Cần Thiết**
 
 * [Python3][python3]
 * requests
@@ -81,23 +77,11 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 * scapy
 ---
 
-**Video's**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon..
-
-**toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://www.youtube.com/watch?v=e_l40jkCGns
-
----
-
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/h3nesy/mhddos/
+cd mhddos
 pip3 install -r requirements.txt
 ```
 
@@ -109,12 +93,3 @@ pip3 install -r requirements.txt
 python3 start.py
 python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
 ```
-
-[python3]: https://python.org 'Python3'
-[github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
-
-**💰 Donate:**
-* https://idpay.ir/mh-prodev
-* bitcoin:BC1QHY8XG8VE2SMCXXXL20DZLUX9SDDSLR58TT298X
-* bitcoincash:qrwytj0aghszlqmfnku2h5ms4fad567ueg5g9dn2nu
-
